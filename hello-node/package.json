@@ -1,0 +1,26 @@
+{
+  "name": "@hacksocnotts/hello-node",
+  "version": "1.0.0",
+  "description": "Hello Node Application for HackSoc Nottingham's Docker Workshop",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronosher/DockerWorkshop.git"
+  },
+  "keywords": [
+    "docker",
+    "expressjs"
+  ],
+  "author": "Aaron Osher <aaron@aaronosher.io>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/aaronosher/DockerWorkshop/issues"
+  },
+  "homepage": "https://github.com/aaronosher/DockerWorkshop#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
